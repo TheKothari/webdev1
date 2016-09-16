@@ -1,0 +1,17 @@
+h1 { color : Blue;
+     text-shadow:1px 1px black}
+
+div {
+   box-shadow: 10px 10px 5px #202020;
+   width:300px}
+   img { width:300px;}
+
+body  {
+   text-shadow : 0.2px 0.2px black;
+  display: block;
+  margin: 20vh auto;
+  background-color: powderblue;
+  margin : 50px;
+  box-shadow:10px 10px 5px #ccc;
+  }
+  
